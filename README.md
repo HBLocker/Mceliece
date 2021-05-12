@@ -1,7 +1,5 @@
 
 ##  Lighweight McEliece implemetaiton
-## Stages of the scheme 
-## Key generation 
 Refferences:
 
 - Heyse (2009) Code-based cryptography: implementing the Mcelsie scheme on Reconfinable Hardware
